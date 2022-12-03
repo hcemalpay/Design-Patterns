@@ -1,10 +1,10 @@
-package factory;
+package abstractFactory;
 
 /**
  * @author hcalpay
  */
 public abstract class Far {
-    private String far;
+    private final String far;
 
     protected Far(String far) {
         this.far = far;

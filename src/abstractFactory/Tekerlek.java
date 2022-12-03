@@ -1,10 +1,10 @@
-package factory;
+package abstractFactory;
 
 /**
  * @author hcalpay
  */
 public abstract class Tekerlek {
-    private String tekerlekModeli;
+    private final String tekerlekModeli;
 
     protected Tekerlek(String tekerlekModeli) {
         this.tekerlekModeli = tekerlekModeli;

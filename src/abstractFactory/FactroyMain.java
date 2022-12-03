@@ -1,7 +1,7 @@
-package factory;
+package abstractFactory;
 
-import factory.factory.Factory;
-import factory.factory.FactoryMaker;
+import abstractFactory.factory.Factory;
+import abstractFactory.factory.FactoryMaker;
 
 /**
  * @author hcalpay

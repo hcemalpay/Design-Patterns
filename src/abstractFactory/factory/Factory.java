@@ -1,7 +1,7 @@
-package factory.factory;
+package abstractFactory.factory;
 
-import factory.Far;
-import factory.Tekerlek;
+import abstractFactory.Far;
+import abstractFactory.Tekerlek;
 
 /**
  * @author hcalpay

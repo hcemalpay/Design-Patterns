@@ -1,6 +1,6 @@
-package factory.mercedes;
+package abstractFactory.mercedes;
 
-import factory.Far;
+import abstractFactory.Far;
 
 /**
  * @author hcalpay

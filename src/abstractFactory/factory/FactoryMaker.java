@@ -1,4 +1,4 @@
-package factory.factory;
+package abstractFactory.factory;
 
 /**
  * @author hcalpay

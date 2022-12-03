@@ -1,6 +1,6 @@
-package factory.audi;
+package abstractFactory.audi;
 
-import factory.Tekerlek;
+import abstractFactory.Tekerlek;
 
 /**
  * @author hcalpay

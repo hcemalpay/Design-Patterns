@@ -1,9 +1,9 @@
-package factory.factory;
+package abstractFactory.factory;
 
-import factory.Far;
-import factory.Tekerlek;
-import factory.mercedes.MercedesFar;
-import factory.mercedes.MercedesTekerlek;
+import abstractFactory.Far;
+import abstractFactory.Tekerlek;
+import abstractFactory.mercedes.MercedesFar;
+import abstractFactory.mercedes.MercedesTekerlek;
 
 /**
  * @author hcalpay

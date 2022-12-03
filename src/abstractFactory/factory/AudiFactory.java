@@ -1,9 +1,9 @@
-package factory.factory;
+package abstractFactory.factory;
 
-import factory.Far;
-import factory.Tekerlek;
-import factory.audi.AudiFar;
-import factory.audi.AudiTekerlek;
+import abstractFactory.Far;
+import abstractFactory.Tekerlek;
+import abstractFactory.audi.AudiFar;
+import abstractFactory.audi.AudiTekerlek;
 
 /**
  * @author hcalpay

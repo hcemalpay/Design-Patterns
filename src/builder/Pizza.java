@@ -4,12 +4,12 @@ public class Pizza {
 
     private final int size;
     private final String name;
-    private boolean cheese;
-    private boolean olive;
-    private boolean pepperoni;
-    private boolean bacon;
-    private boolean mushroom;
-    private boolean mozarella;
+    private final boolean cheese;
+    private final boolean olive;
+    private final boolean pepperoni;
+    private final boolean bacon;
+    private final boolean mushroom;
+    private final boolean mozarella;
 
     Pizza(PizzaBuilder pizzaBuilder) {
         this.size = pizzaBuilder.size;
