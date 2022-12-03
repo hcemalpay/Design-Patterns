@@ -1,3 +1,5 @@
+package builder;
+
 public class Pizza {
 
     private final int size;
@@ -22,7 +24,7 @@ public class Pizza {
 
     @Override
     public String toString() {
-        return "Pizza{" +
+        return "builder.Pizza{" +
                 "size=" + size +
                 ", name='" + name + '\'' +
                 ", cheese=" + cheese +
