@@ -1,4 +1,4 @@
-package abstractFactory.mercedes;
+package abstractFactory.arabalar.mercedes;
 
 import abstractFactory.Tekerlek;
 
