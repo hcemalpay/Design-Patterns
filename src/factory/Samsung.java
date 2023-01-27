@@ -10,7 +10,7 @@ public class Samsung implements Telefon {
     }
 
     @Override
-    public void uretimYılı(int yil) {
+    public void uretimYili(int yil) {
         System.out.println(yil + " yılında üretilmiştir.");
     }
 

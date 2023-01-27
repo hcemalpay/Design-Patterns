@@ -11,10 +11,12 @@ public class FactoryMain {
         try {
 
             Apple iphone = (Apple) TelefonFactory.createTelefon(Apple.class);
-            iphone.uretimYılı(2020);
+            iphone.uretimYili(2020);
+            iphone.uretimYeri("China");
             System.out.println("Telefon Tipinde Apple instance oluşturuldu");
             Samsung samsung= (Samsung) TelefonFactory.createTelefon(Samsung.class);
-            samsung.uretimYılı(2021);
+            samsung.uretimYili(2021);
+            samsung.uretimYeri("Hollowood");
             System.out.println("Telefon Tipinde Samsung instance oluşturuldu");
         } catch (IllegalAccessException | InstantiationException |InvocationTargetException |NoSuchMethodException e) {
             e.printStackTrace();

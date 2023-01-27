@@ -7,7 +7,7 @@ public interface Telefon {
 
     void telefonMarkasi();
 
-    void uretimYılı(int yil);
+    void uretimYili(int yil);
 
     void uretimYeri(String ulke);
 }
